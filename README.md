@@ -1,4 +1,4 @@
-# accuenery-task
+# Accuenery-interview task 
 
 ## Project setup
 ```
